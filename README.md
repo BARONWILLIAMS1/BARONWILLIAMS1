@@ -42,6 +42,7 @@ I am passionate about:
 - **CCEP Certification**
 [ View CCEP ( https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/certified_certificate.pdf ) ]
 - Cybersecurity & Web Security Training Certifications
+[View CERTIFICATE ( https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/IMG_20260104_193914.jpg ) ]
 - Practical OWASP Top 10 Knowledge
 
 ---
