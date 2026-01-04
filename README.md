@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Williams Jasper Millionaire
 
 🔐 **Cybersecurity Analyst | Web Application Security Specialist**  
-🎓 **Web Instructor at Webcapz Technologies**  
+🎓 **Cyber security Instructor at Webcapz Technologies**  
 🛡 **OWASP Top 10 | Secure Web Development**
 
 ---
