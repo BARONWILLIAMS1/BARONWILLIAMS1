@@ -1,52 +1,55 @@
 # 👋 Hi, I'm Williams Jasper Millionaire
 
-🔐 **Cybersecurity Analyst | Web Application Security Specialist**  
-🎓 **Cyber security Instructor at Webcapz Technologies**  
-🛡 **OWASP Top 10 | Secure Web Development**
+🔐 Cybersecurity Analyst | ICT Support Specialist | Networking & System Administration  
+🎓 Cybersecurity Instructor at Webcapz Technologies  
+🛡 OWASP Top 10 | Web Application Security | CCEP Certified  
 
 ---
 
-## 👨‍🏫 About Me
-I am a cybersecurity-focused web professional with strong knowledge of **web application security** and the **OWASP Top 10**.  
-I currently serve as an **instructor at Webcapz Technologies**, where I teach students web development and security fundamentals.
+## 👨‍💻 About Me
+I am an ICT and cybersecurity professional with strong experience in web application security, IT support, and networking fundamentals.
 
-I am passionate about:
-- Identifying web vulnerabilities  
-- Teaching secure coding practices  
-- Helping organizations build safer applications  
+I currently work as an instructor at Webcapz Technologies, where I teach web development, cybersecurity fundamentals, and secure coding practices.
+
+I am expanding my expertise into ICT infrastructure, system administration, and network management.
 
 ---
 
-## 🛡 Cybersecurity Skills
+## 🛠 Technical Skills
+
+### Cybersecurity
 - OWASP Top 10 (2021)
 - SQL Injection (SQLi)
 - Cross-Site Scripting (XSS)
 - Broken Authentication
-- Insecure Direct Object References (IDOR)
+- IDOR & Access Control Issues
 - Security Misconfiguration
-- Input Validation & Sanitization
-- Basic Penetration Testing Concepts
+- Basic Penetration Testing
 
----
+### ICT & Networking
+- IT Support & Troubleshooting
+- Network Configuration & Basics (TCP/IP, DNS, DHCP)
+- Router & Internet Setup
+- CCTV & Basic Surveillance Systems
+- System Administration Fundamentals
+- Windows & Linux Basics
 
-## 🌐 Web & Technical Skills
+### Web & Tools
 - HTML, CSS, JavaScript
-- Secure Login & Authentication Systems
-- Web Application Architecture
 - Git & GitHub
-- Teaching & Technical Documentation
+- Web Application Architecture
+- Technical Documentation
 
 ---
 
 ## 🎓 Certifications
-- **CCEP Certification**
-[ View CCEP ( https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/certified_certificate.pdf ) ]
-- Cybersecurity & Web Security Training Certifications
-[View CERTIFICATE ( https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/IMG_20260104_193914.jpg ) ]
+- CCEP Certification  
+  [View Certificate](https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/certified_certificate.pdf)
 
--- ISC2 certification --
-[view ISC2 (https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/ISC2%20CERTIFICATION.pdf)]
-- Practical OWASP Top 10 Knowledge
+- ISC2 Certified in Cybersecurity (CC)  
+  [View Certificate](https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/ISC2%20CERTIFICATION.pdf)
+
+- Cybersecurity & Web Security Training
 
 ---
 
@@ -54,26 +57,28 @@ I am passionate about:
 **Webcapz Technologies**
 - Web Development Instructor
 - Cybersecurity Fundamentals Trainer
-- OWASP Top 10 Awareness & Practical Labs
+- OWASP Top 10 Training
 
 ---
 
-## 📂 Featured Projects
-### 🔹 OWASP Top 10 Notes & Labs
-Hands-on explanations and beginner-friendly notes on:
-- SQL Injection
-- XSS
-- Broken Authentication
-- Security Best Practices
+## 📂 Projects
+### 🔹 Cybersecurity Labs
+Hands-on security practice covering:
+- Web vulnerabilities (XSS, SQLi, IDOR)
+- Security best practices
+- Beginner penetration testing concepts
 
-*(More labs and security projects coming)*
+### 🔹 Networking Labs (Coming Soon)
+- IP configuration
+- Router setup
+- Network troubleshooting exercises
 
 ---
 
 ## 📫 Contact
 - 📧 Email: williamsmillionaire9@gmail.com
-- 📱 Phone:
-  +234 707 781 2780
+- 📱 Phone: +234 707 781 2780
+
 ---
 
-⭐ *Always learning, always securing.*
+⭐ Always learning. Always securing systems. Always building.
