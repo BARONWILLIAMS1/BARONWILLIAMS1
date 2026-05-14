@@ -50,7 +50,7 @@ I am expanding my expertise into ICT infrastructure, system administration, and 
   [View Certificate](https://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/ISC2%20CERTIFICATION.pdf)
 
 - Cybersecurity & Web Security Training
-  [View Certificate](http://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/IMG_20260104_193914.jpg)
+   [View Certificate](http://github.com/BARONWILLIAMS1/BARONWILLIAMS1/blob/main/IMG_20260104_193914.jpg)
 ---
 
 ## 👨‍🏫 Teaching Experience
